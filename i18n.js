@@ -88,7 +88,7 @@
 
       // contact
       "contact.eyebrow": "— Acquire a work",
-      "contact.title": "<em>Interested in a piece?</em>",
+      "contact.title": "Inquiries",
       "contact.sub": "Original works available for purchase and commission.",
       "contact.email": "you@example.com",
       "contact.label.name": "Name",
@@ -210,7 +210,7 @@
       "philo.processBody": "Un breve registro desde el taller en Porto.",
 
       "contact.eyebrow": "— Adquirir una obra",
-      "contact.title": "<em>¿Te interesa una pieza?</em>",
+      "contact.title": "Consultas",
       "contact.sub": "Obras originales disponibles para venta y encargo.",
       "contact.email": "tu@correo.com",
       "contact.label.name": "Nombre",
