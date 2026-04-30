@@ -14,9 +14,9 @@
     font-weight:400;font-style:normal;font-display:swap;
   }
   @font-face{
-    font-family:'Nimbus Sans L';
-    src:url('fonts/Nimbus Sans L Regular/Nimbus Sans L Regular.woff2') format('woff2'),
-        url('fonts/Nimbus Sans L Regular/Nimbus Sans L Regular.woff') format('woff');
+    font-family:'Helvetica World';
+    src:url('fonts/Helvetica World W08 Regular/Helvetica World W08 Regular.woff2') format('woff2'),
+        url('fonts/Helvetica World W08 Regular/Helvetica World W08 Regular.woff') format('woff');
     font-weight:400;font-style:normal;font-display:swap;
   }
   :root{
@@ -29,7 +29,7 @@
     --ink:#2A3A33;
     --hairline: rgba(59,86,77,0.18);
     --serif:'The Seasons', serif;
-    --sans:'Nimbus Sans L', system-ui, sans-serif;
+    --sans:'Helvetica World', system-ui, sans-serif;
   }
   *{box-sizing:border-box}
   html,body{margin:0;padding:0}
@@ -117,7 +117,7 @@
     font-size:clamp(54px, 7.2vw, 110px); line-height:1.0; letter-spacing:-0.014em;
     margin:0 auto; max-width:18ch;
   }
-  .page-head h1 em{ font-style:italic; }
+  .page-head h1 em{ font-style:normal; }
   .page-head .lede{
     margin: 36px auto 0;
     max-width: 60ch;
@@ -140,7 +140,7 @@
     font-size:34px; color:var(--green-deep); letter-spacing:-0.005em;
   }
   .ex-row .title{
-    font-family:var(--serif); font-style:italic; font-weight:400;
+    font-family:var(--serif); font-style:normal; font-weight:400;
     font-size:24px; color:var(--green-deep); letter-spacing:-0.005em;
   }
   .ex-row .venue{

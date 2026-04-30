@@ -14,16 +14,16 @@
     font-weight:400;font-style:normal;font-display:swap;
   }
   @font-face{
-    font-family:'Nimbus Sans L';
-    src:url('fonts/Nimbus Sans L Regular/Nimbus Sans L Regular.woff2') format('woff2'),
-        url('fonts/Nimbus Sans L Regular/Nimbus Sans L Regular.woff') format('woff');
+    font-family:'Helvetica World';
+    src:url('fonts/Helvetica World W08 Regular/Helvetica World W08 Regular.woff2') format('woff2'),
+        url('fonts/Helvetica World W08 Regular/Helvetica World W08 Regular.woff') format('woff');
     font-weight:400;font-style:normal;font-display:swap;
   }
   :root{
     --cream:#F0F2EB; --green-deep:#3B564D; --green-mid:#7C8966;
     --green-light:#AFB593; --blush:#E7B4A9; --sage:#D2D5C4;
     --ink:#2A3A33; --hairline: rgba(59,86,77,0.18);
-    --serif:'The Seasons', serif; --sans:'Nimbus Sans L', system-ui, sans-serif;
+    --serif:'The Seasons', serif; --sans:'Helvetica World', system-ui, sans-serif;
   }
   *{box-sizing:border-box}
   html,body{margin:0;padding:0}
@@ -70,7 +70,7 @@
     font-size:clamp(54px, 7.2vw, 110px); line-height:1.0; letter-spacing:-0.014em;
     margin:0 auto; max-width:18ch;
   }
-  .page-head h1 em{ font-style:italic; }
+  .page-head h1 em{ font-style:normal; }
   .page-head .lede{ margin: 36px auto 0; max-width: 60ch; font-size:15px; line-height:1.75; }
 
   .works-stack{ display:flex; flex-direction:column; gap:180px; padding-bottom:160px; }
@@ -86,7 +86,7 @@
   .work.size-sm img{ max-width: min(520px, 64vw); max-height: 64vh; }
   .work:hover img{ transform: scale(1.01); }
   .work .caption{ margin-top:28px; text-align:center; display:flex; flex-direction:column; gap:8px; }
-  .work .caption .t2{ font-family:var(--serif); font-style:italic; font-size:22px; color:var(--green-deep); }
+  .work .caption .t2{ font-family:var(--serif); font-style:normal; font-size:22px; color:var(--green-deep); }
   .work .caption .meta{ font-size:11px; letter-spacing:0.22em; text-transform:uppercase; color:var(--green-mid); }
 
   .back{ margin-top:40px; text-align:center; padding-bottom:80px; }
