@@ -6,15 +6,24 @@
 <title>Flør Jerez Art — About</title>
 <link rel="icon" type="image/png" href="assets/brand/fj-monogram-dark.png" />
 <link rel="apple-touch-icon" href="assets/brand/fj-monogram-dark.png" />
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400;1,500;1,600&family=Jost:wght@300;400;500&display=swap" rel="stylesheet">
 <style>
+  @font-face{
+    font-family:'The Seasons';
+    src:url('fonts/The Seasons/The Seasons.woff2') format('woff2'),
+        url('fonts/The Seasons/The Seasons.woff') format('woff');
+    font-weight:400;font-style:normal;font-display:swap;
+  }
+  @font-face{
+    font-family:'Nimbus Sans L';
+    src:url('fonts/Nimbus Sans L Regular/Nimbus Sans L Regular.woff2') format('woff2'),
+        url('fonts/Nimbus Sans L Regular/Nimbus Sans L Regular.woff') format('woff');
+    font-weight:400;font-style:normal;font-display:swap;
+  }
   :root{
     --cream:#F0F2EB; --green-deep:#3B564D; --green-mid:#7C8966;
     --green-light:#AFB593; --blush:#E7B4A9; --sage:#D2D5C4;
     --ink:#2A3A33; --hairline: rgba(59,86,77,0.18);
-    --serif:'Cormorant Garamond', serif; --sans:'Jost', system-ui, sans-serif;
+    --serif:'The Seasons', serif; --sans:'Nimbus Sans L', system-ui, sans-serif;
   }
   *{box-sizing:border-box}
   html,body{margin:0;padding:0}
