@@ -68,10 +68,10 @@
 
   /* Full-bleed portrait */
   .portrait-bleed{
-    width:100%; height:min(90vh, 880px); overflow:hidden; position:relative;
+    width:100%; position:relative; overflow:hidden;
   }
   .portrait-bleed img{
-    width:100%; height:100%; object-fit:cover; object-position: center 30%;
+    width:100%; height:auto;
     display:block;
   }
   .portrait-bleed .caption{
@@ -151,7 +151,6 @@
     .hamburger.open span::before{ transform:rotate(45deg); }
     .hamburger.open span::after{ transform:rotate(-45deg); }
     .page-head{ padding:140px 0 40px; }
-    .portrait-bleed{ height:60vh; }
     .statement{ padding:80px 0; }
     .section{ padding:70px 0; }
     .list li{ grid-template-columns: 70px 1fr; gap:14px; }
@@ -205,7 +204,7 @@
 
 <div class="portrait-bleed">
   <img src="assets/artist-portrait-statement.webp" alt="Portrait of Florencia Jerez layered with her brushstrokes" />
-  <div class="caption" data-i18n="about.portraitCaption">Self-portrait with brushstrokes · 2024</div>
+  <div class="caption" data-i18n="about.portraitCaption">Self-portrait with brushstrokes · 2026</div>
 </div>
 
 <section class="statement">
