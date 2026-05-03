@@ -131,7 +131,7 @@
       "contact.error.network": "Something went wrong. Please email info@florjerezart.com directly.",
       "contact.send": "Send Enquiry",
       "contact.sent": "Sent ✓",
-      "contact.footer": "© 2026 Flør Jerez Art — Porto, Portugal",
+      "contact.footer": "© 2026 Flør Jerez Art — Porto, Portugal. Todos los derechos reservados. | Desarrollado por <a href=\"https://www.vanguardcrux.com/\" target=\"_blank\" rel=\"noopener\">Vanguard Crux</a>",
 
       // exhibitions page
       "exh.eyebrow": "Exhibitions &amp; press",
@@ -277,7 +277,7 @@
       "contact.error.network": "Algo falló. Escribí directo a info@florjerezart.com.",
       "contact.send": "Enviar consulta",
       "contact.sent": "Enviado ✓",
-      "contact.footer": "© 2026 Flør Jerez Art — Porto, Portugal",
+      "contact.footer": "© 2026 Flør Jerez Art — Porto, Portugal. Todos los derechos reservados. | Desarrollado por <a href=\"https://www.vanguardcrux.com/\" target=\"_blank\" rel=\"noopener\">Vanguard Crux</a>",
 
       "exh.eyebrow": "— Exposiciones y prensa",
       "exh.title": "Una década <em>mostrando obra.</em>",
