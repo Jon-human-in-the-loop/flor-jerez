@@ -76,7 +76,7 @@
       "work.twinkleMeta": "2023 · Acrylic, 100 × 140 cm",
       "work.lifedeath": "Life &amp; Death",
       "work.lifedeathMeta": "2022 · Acrylic, 100 × 100 cm",
-      "work.chameleon": "Camaleón Grande",
+      "work.chameleon": "Alive",
       "work.chameleonMeta": "2021 · Acrylic, 120 × 120 cm",
 
       // philo
@@ -200,7 +200,7 @@
       "work.twinkleMeta": "2023 · Acrílico, 100 × 140 cm",
       "work.lifedeath": "Life &amp; Death",
       "work.lifedeathMeta": "2022 · Acrílico, 100 × 100 cm",
-      "work.chameleon": "Camaleón Grande",
+      "work.chameleon": "Alive",
       "work.chameleonMeta": "2021 · Acrílico, 120 × 120 cm",
 
       "philo.pull": "La pintura se convierte en un espacio donde me permito soltar — <em>y las emociones toman forma en el lienzo.</em>",
