@@ -23,7 +23,7 @@
 
       // about
       "about.eyebrow": "About the artist",
-      "about.title": "Florencia<br/><em>Jerez.</em>",
+      "about.title": "Florencia<br/><em>Jerez</em>",
       "about.sub": "Argentine artist, Porto-based.",
       "about.bio1": "Florencia Jerez is an Argentinian artist based in Porto. She studied art in Tucumán, Argentina, and returned to painting in 2014 after a career change.",
       "about.bio2": "Her work has been sold and exhibited in Argentina, the United States, and the United Kingdom, and she has been interviewed for her work in Paris.",
@@ -170,7 +170,7 @@
       "hero.scroll": "Desliza",
 
       "about.eyebrow": "Sobre la artista",
-      "about.title": "Florencia<br/><em>Jerez.</em>",
+      "about.title": "Florencia<br/><em>Jerez</em>",
       "about.sub": "Artista argentina, radicada en Porto.",
       "about.bio1": "Florencia Jerez es una artista argentina radicada en Porto. Estudió arte en Tucumán, Argentina, y volvió a la pintura en 2014 tras un cambio de carrera.",
       "about.bio2": "Su obra se ha vendido y exhibido en Argentina, Estados Unidos y el Reino Unido, y ha sido entrevistada por su trabajo en París.",
