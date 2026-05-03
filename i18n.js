@@ -22,20 +22,20 @@
       "hero.scroll": "Scroll",
 
       // about
-      "about.eyebrow": "— About the artist",
+      "about.eyebrow": "About the artist",
       "about.title": "Florencia<br/><em>Jerez.</em>",
       "about.sub": "Argentine artist, Porto-based.",
       "about.bio1": "Florencia Jerez is an Argentinian artist based in Porto. She studied art in Tucumán, Argentina, and returned to painting in 2014 after a career change.",
       "about.bio2": "Her work has been sold and exhibited in Argentina, the United States, and the United Kingdom, and she has been interviewed for her work in Paris.",
       "about.bio3": "She works mainly with acrylic on canvas, with a preference for large format.",
-      "about.statementEyebrow": "— Artist statement",
+      "about.statementEyebrow": "Artist statement",
       "about.statement": "My inspiration mainly comes from nature. I observe even the simplest details, such as plants, light, textures, and color, and feel amazed by how these elements carry a quiet complexity. Painting becomes a space where I let go, allowing emotions to move freely through gesture and take form on the canvas. Through this process, I explore contrasts that coexist within us, such as calm and intensity, fragility and strength, simplicity and depth. My work reflects an ongoing curiosity about human nature and connection — how we feel, relate, and find meaning in what surrounds us.",
       "about.portraitCaption": "Self-portrait with brushstrokes · 2026",
-      "about.educationEyebrow": "— Education",
+      "about.educationEyebrow": "Education",
       "about.educationTitle": "<em>Studies</em> &amp; training.",
-      "about.practiceEyebrow": "— Current practice",
+      "about.practiceEyebrow": "Current practice",
       "about.practiceTitle": "What I'm <em>working on now.</em>",
-      "about.collabsEyebrow": "— Collaborations",
+      "about.collabsEyebrow": "Collaborations",
       "about.collabsTitle": "Working <em>alongside others.</em>",
       "edu.2005": "Painting workshop · Yerba Buena, Tucumán",
       "edu.2009": "Bachelor of Fine Arts (first year) · National University of Tucumán, Argentina",
@@ -65,7 +65,7 @@
       "ex.emotions.venue": "Solo exhibition, San Miguel de Tucumán",
 
       // works
-      "works.eyebrow": "— Selected works",
+      "works.eyebrow": "Selected works",
       "works.title": "A vocabulary of <em>gesture,</em><br/>color and quiet observation.",
       "works.meta": "2018 — 2025<br/>Acrylic on canvas<br/>Various dimensions",
       "works.foot": "Enquire about availability",
@@ -105,13 +105,13 @@
 
       // philo
       "philo.pull": "Painting becomes a space where I let go — <em>and emotions take form on the canvas.</em>",
-      "philo.workEyebrow": "— In the studio",
+      "philo.workEyebrow": "In the studio",
       "philo.workBody": "Layers of acrylic, built up and pared back — each piece arrives in its own time.",
-      "philo.processEyebrow": "— Watch",
+      "philo.processEyebrow": "Watch",
       "philo.processBody": "A short reel from the studio in Porto.",
 
       // contact
-      "contact.eyebrow": "— Acquire a work",
+      "contact.eyebrow": "Acquire a work",
       "contact.title": "Inquiries",
       "contact.sub": "Original works available for purchase and commission.",
       "contact.email": "you@example.com",
@@ -134,11 +134,11 @@
       "contact.footer": "© 2026 Flør Jerez Art — Porto, Portugal",
 
       // exhibitions page
-      "exh.eyebrow": "— Exhibitions &amp; press",
+      "exh.eyebrow": "Exhibitions &amp; press",
       "exh.title": "A decade of <em>showing work.</em>",
       "exh.meta": "Six selected exhibitions<br/>Argentina · UK · Portugal",
       "exh.lede": "From small group shows in Tucumán to recent solo exhibitions in Porto, each setting has shaped the work in a different way.",
-      "exh.pressEyebrow": "— Press &amp; interviews",
+      "exh.pressEyebrow": "Press &amp; interviews",
       "exh.back": "Back to home",
 
       // exhibition titles (proper nouns mostly stay)
