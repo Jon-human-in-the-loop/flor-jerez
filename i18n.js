@@ -101,7 +101,7 @@
       "work.untitledXI": "Flow (the sisters)",
       "work.untitledXIMeta": "2024 · Mixed media on canvas, 100 × 30 cm",
       "work.untitledXII": "Terra echoes",
-      "work.untitledXIIMeta": "2024 · Mixed media on canvas, 50 × 80 cm",
+      "work.untitledXIIMeta": "2024 · Mixed media on canvas, 60 × 80 cm",
 
       // philo
       "philo.pull": "Painting becomes a space where I let go — <em>and emotions take form on the canvas.</em>",
@@ -249,7 +249,7 @@
       "work.untitledXI": "Flow (the sisters)",
       "work.untitledXIMeta": "2024 · Técnica mixta sobre lienzo, 100 × 30 cm",
       "work.untitledXII": "Terra echoes",
-      "work.untitledXIIMeta": "2024 · Técnica mixta sobre lienzo, 50 × 80 cm",
+      "work.untitledXIIMeta": "2024 · Técnica mixta sobre lienzo, 60 × 80 cm",
 
       "philo.pull": "La pintura se convierte en un espacio donde me permito soltar — <em>y las emociones toman forma en el lienzo.</em>",
       "philo.workEyebrow": "— En el taller",
