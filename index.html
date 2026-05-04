@@ -724,17 +724,8 @@
 </head>
 <body>
 
-<!-- Tweakable defaults -->
-<script>
-  window.__TWEAKS__ = /*EDITMODE-BEGIN*/{
-    "heroVariant": "video",
-    "navStyle": "frosted",
-    "worksScale": "balanced",
-    "showProcessVideo": true
-  }/*EDITMODE-END*/;
-</script>
 
-<!-- NAV -->
+
 <nav class="nav" id="nav">
   <div class="wrap nav-inner">
     <a href="#top" class="brand" aria-label="Flør Jerez Art">
@@ -759,7 +750,6 @@
   </div>
 </nav>
 
-<!-- HERO -->
 <section class="hero" id="top">
   <div class="hero-content wrap">
     <h1 class="hero-title">Flor <em>Jerez</em></h1>
@@ -771,7 +761,6 @@
   </div>
 </section>
 
-<!-- ABOUT -->
 <section class="about" id="about">
   <div class="wrap about-grid">
     <div class="about-copy reveal">
@@ -798,10 +787,6 @@
   </div>
 </section>
 
-<!-- Selected works section removed from home — full gallery lives on works.html, accessed via "Work" in the nav. -->
-
-
-<!-- CONTACT -->
 <section class="contact" id="contact">
   <div class="wrap-narrow">
     <h2 data-i18n="contact.title">Inquiries</h2>
@@ -834,7 +819,6 @@
         <textarea id="cf-message" name="message" required rows="4" data-i18n-attr="placeholder:contact.placeholder.message" placeholder="Tell me about the work or project you have in mind…"></textarea>
       </div>
 
-      <!-- honeypot — hidden from humans, bots fill it -->
       <div class="hp" aria-hidden="true">
         <label for="cf-hp">Leave this field empty</label>
         <input type="text" id="cf-hp" name="company" tabindex="-1" autocomplete="off" />
@@ -928,15 +912,8 @@
   </div>
 </section>
 
-<!-- React + Babel for Tweaks -->
-<script src="https://unpkg.com/react@18.3.1/umd/react.development.js" integrity="sha384-hD6/rw4ppMLGNu3tX5cjIb+uRZ7UkRJ6BPkLpg4hAu/6onKUg4lLsHAs9EBPT82L" crossorigin="anonymous"></script>
-<script src="https://unpkg.com/react-dom@18.3.1/umd/react-dom.development.js" integrity="sha384-u6aeetuaXnQ38mYT8rp6sbXaQe3NL9t+IBXmnYxwkUI2Hw4bsp2Wvmx4yRQF1uAm" crossorigin="anonymous"></script>
-<script src="https://unpkg.com/@babel/standalone@7.29.0/babel.min.js" integrity="sha384-m08KidiNqLdpJqLq95G/LEi8Qvjl/xUYll3QILypMoQ65QorJ9Lvtp2RXYGBFj1y" crossorigin="anonymous"></script>
 <script src="i18n.js?v=4"></script>
-<script type="text/babel" src="tweaks-panel.jsx"></script>
-<script type="text/babel" src="tweaks.jsx"></script>
 
-<!-- Inline behaviors -->
 <script>
   // nav scroll
   const nav = document.getElementById('nav');
